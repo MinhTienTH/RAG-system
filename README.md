@@ -67,4 +67,3 @@ Customize model parameters in `get_conversation_chain()`:
 - Adjust `temperature`
 - Modify `max_length`
 - Change retrieval settings
-# RAG-system
